@@ -1,10 +1,4 @@
-<!--
-  Perfil pré-preenchido: enzotraini
-  1. Repo público: enzotraini/enzotraini
-  2. Copie README.md + .github/ para a raiz do repo (se ainda não estiverem lá).
-  3. Actions → rode "Gerar animação da cobrinha" uma vez.
-  4. Settings → Actions → Workflow permissions → Read and write.
--->
+
 
 <div align="center">
 

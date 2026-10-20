@@ -67,17 +67,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzotraini&theme=tokyo-night&hide_border=true&area=true&point=667eea&color=a78bfa&line=764ba2&bg_color=0d1117" width="98%" alt="Activity graph" />
 
 <br/><br/>
-
-### Cobrinha nas contribuições
-
-###<img src="https://raw.githubusercontent.com/enzotraini/enzotraini/output/github-snake-dark.svg" alt="Snake animation" />
-
-###<sub>Depois do primeiro run do workflow, a imagem acima aparece. Enquanto isso, pode comentar este bloco.</sub>
-
-###</div>
-
 ---
-
 <div align="center">
 
 **Construindo coisas legais, um commit de cada vez.**

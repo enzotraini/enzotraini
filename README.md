@@ -70,11 +70,11 @@
 
 ### Cobrinha nas contribuições
 
-<img src="https://raw.githubusercontent.com/enzotraini/enzotraini/output/github-snake-dark.svg" alt="Snake animation" />
+###<img src="https://raw.githubusercontent.com/enzotraini/enzotraini/output/github-snake-dark.svg" alt="Snake animation" />
 
-<sub>Depois do primeiro run do workflow, a imagem acima aparece. Enquanto isso, pode comentar este bloco.</sub>
+###<sub>Depois do primeiro run do workflow, a imagem acima aparece. Enquanto isso, pode comentar este bloco.</sub>
 
-</div>
+###</div>
 
 ---
 
